@@ -1,5 +1,4 @@
-body
- {background :pink;}
+body {background :linear-gradient(to bottom right,#cce6ff , #ffb3b3,#ffffff );}
 h1 {color :black;}
 h2 {color :black;}
 p {color :black;}
