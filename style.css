@@ -1,6 +1,5 @@
 body
- background :linear-gradient(to bottom right,#cce6ff,pink );
-
+ {background :linear-gradient(to bottom right,#cce6ff,pink );}
 h1 {color :black;}
 h2 {color :black;}
 p {color :black;}
